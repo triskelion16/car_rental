@@ -1,2 +1,4 @@
 # car_rental
-C# - console application
+
+Java - console application
+data base: sqLite
