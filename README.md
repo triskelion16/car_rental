@@ -2,4 +2,4 @@
 
 Java - console application
 
-data base: sqLite
+database: sqLite
